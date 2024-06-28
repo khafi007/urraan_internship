@@ -1,0 +1,37 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background: rgb(14, 137, 119);
+}
+
+.bubble-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.bubble:hover{
+    background: rgb(181, 103, 116) ;
+}
+
+.bubble {
+    position: absolute;
+    bottom: -100px;
+    background: pink;
+    border-radius: 50%;
+    opacity: 0.6;
+    pointer-events: auto;
+    animation: rise linear infinite;
+}
+
+@keyframes rise {
+    0% {
+        transform: translateY(0);
+    }
+    100% {
+        transform: translateY(-110vh);
+    }
+}
