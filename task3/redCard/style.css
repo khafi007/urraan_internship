@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#img1{
+    width: 100px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#bg{
+    height: 950px;
+    margin-left: 35px;
+    background-color: brown;
+}
+#p1{
+    padding-left: 200px;
+    padding-top: 350px;
+    font-size: 90px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.forms{
+    margin-left: 70%;
+    border: 20px;
+    border-color: white;
+    margin-top: -290px;
+
+}
+
+.forms input{
+    color: white;
+    background-color: brown ;
+    padding: 20px;
+    width: 300px;
+    border-width: 3px;
+    height: 50px;
+
+}
+#pl1{
+    margin-top: 5px;
+}
+#pl2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 250px;
+    padding-top: 80px;
+}
+#pl3{
+    margin-left: 200px;
+    margin-top: 20px;
+    font-size: 40px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black
+}
+#pl4{
+    margin-left: 1050px;
+    margin-top: -240px;
+    font-size: 30px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black
+}
+.forms2{
+    margin-left: 70%;
+    border: 20px;
+    border-color: white;
+    margin-top: 50px;
+
+}
+
+.forms2 input{
+    color: white;
+    background-color: brown ;
+    padding: 20px;
+    width: 300px;
+    border-width: 3px;
+    height: 50px;
+    line-height: 0.3em;
+
+}
+
+
+
+input{
+    margin-top: 2px;
+    margin-bottom: 20px;
+
+}
+#pll{
+    margin-top: -400px;
+    margin-left: 1050px;
+    font-size: x-small;
+    color: white;
+}
+
+.cb1{
+    background: transparent;
+    margin-top: 6PX;
+    margin-left: 70%;
+    height: 15px;
+    width: 20px;
+}
+.cb2{
+    margin-top: 43PX;
+    margin-left: 70%;
+    height: 15px;
+    width: 20px;
+}
+.cb3{
+    margin-top: 36PX;
+    margin-left: 70%;
+    height: 15px;
+    width: 20px;
+}
+.cb4{
+    margin-top: 38PX;
+    margin-left: 70%;
+    height: 15px;
+    width: 20px;
+}
+.cb5{
+    margin-top: 36PX;
+    margin-left: 70%;
+    height: 15px;
+    width: 20px;
+}
+#cl{
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#btn{
+    margin-top: 70px;
+    margin-left: 1050px;
+    height: 40px;
+    width: 250px;
+}

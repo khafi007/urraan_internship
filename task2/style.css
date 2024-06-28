@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #fff;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+main .front-1 #logo-img{
+    margin-top: 10%;
+    margin-bottom: 80px;
+    margin-left: 14%;
+    margin-right: 2%;
+    width: 420px;
+}
+
+#top_screens{
+    width: 600px;
+    margin-top: -20%;
+    margin-left: 50%;
+
+}
+
+.front-1 h1{
+    font-size: 28px;
+    margin-left: 10%;
+    margin-top: -19%;
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif;
+}
+
+.front-1 p{
+    font-stretch: expanded;
+    margin-top: 5px;
+    margin-left: 235px;
+    color: #5e5e5e;
+    font-size: 28px;
+    font-family: 'Poppins', sans-serif;
+}
+
+article{
+    margin-left: 12%;
+}
+
+.btn-1 #play_store-img, #app_store-img{
+    width: 240px;
+    margin-top: 5%;
+    margin-left: 0%;
+}
+
+#app_store-img{
+    margin-left: 2%;
+}
+
+
+main .front-2 .screen1 #sec-img1{
+    margin-top: 10%;
+    margin-left: -8%;
+    margin-right: 2%;
+    width: 630px;  
+}
+
+.front-2 .screen1 h1{
+    margin-left: 57%;
+    margin-top: -35%;
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif;
+    font-size: 35px;
+}
+
+.front-2 .screen1 p{
+    margin-left: 33%;
+    margin-top: 1%;
+    color: #5e5e5e;
+    font-family: 'Poppins', sans-serif;
+    font-size: 35px;
+    text-align: center;
+}
+
+.front-2 .screen2 #sec-img2{
+    margin-top: 25%;
+    margin-left: 45%;
+    margin-right: 5%;
+    width: 520px;
+
+}
+
+.front-2 .screen2 h1{
+    margin-left: 8%;
+    margin-top: -30%;
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif;
+    font-size: 35px;
+}
+
+.front-2 .screen2 p{
+    margin-top: 10px;
+    margin-left: -65%;
+    color: #5e5e5e;
+    font-family: 'Poppins', sans-serif;
+    font-size: 36px;
+    text-align: center;
+    
+}
+ #ff{
+    height: 90px;
+    margin-left: 750px;
+    margin-top: 280px;
+}
+
+
+.front-3 .screen3 #for-img2{
+    margin-left: -8%;
+    margin-top: -4%;
+    width: 520px;    
+} 
+
+.front-3 .screen3 h1{
+    margin-left: 46%;
+    margin-top: -30%;
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+}
+
+.front-3 .screen3 p{
+    margin-left: 12%;
+    margin-top: 2%;
+    margin-bottom: 20%;
+    color: #5e5e5e;
+    font-family: 'Poppins', sans-serif;
+    font-size: 34px;
+    text-align: center;
+}
+
+
+
+.front-4 h1{
+    margin-left: 40%;
+    margin-bottom: -3%;
+    font-weight: 200;
+    font-family: 'Poppins', sans-serif;
+}
+
+.front-4 p{
+    margin-left: 40%;
+    margin-top: 1%;
+    color: #5e5e5e;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+.front-4 a{
+    text-decoration: none;
+}
+
+.front-4 .btn-2 #play_store-img1, #app_store-img1{
+    /* display: inline-block; */
+    margin-top: 5%;
+    margin-left: 23%;
+    margin-right: 2%;
+    width: 240px;
+}
+
+#app_store-img1{
+    margin-left: -1%;;
+}
+
+#pre-logo{
+    margin-top: 10px;
+    margin-left: 46%;
+    width: 100px;
+}

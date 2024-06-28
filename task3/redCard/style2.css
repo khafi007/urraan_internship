@@ -1,0 +1,224 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg{
+    height: 1050px;
+    background-color: brown;
+}
+.p1{
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+#pp1{
+    font-size: 120px;
+    margin-left: 240PX;
+    margin-top: 50px;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#pp2{
+    font-size: 60px;
+    margin-left: 240PX;
+    margin-top: 20px;
+    color: black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#pp3{
+    margin-top: 40px;
+    margin-left: 240px;
+    font-size:30px;
+    color: white;
+}
+#pic1{
+    margin-left: 250px;
+    margin-top: 100px;
+}
+#t1{
+    margin-left: 320px;
+    font-size: 95px;
+    margin-top: -90px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+
+}
+#bvb{
+    margin-top: 20px;
+    margin-left: 360px;
+    height:100px;
+    display: flex;
+}
+#bvb img{
+    margin-right: 100px;
+}
+
+#txt1{
+    display: flex;
+    margin-left: 350px;
+    margin-top: 30px;
+    color: red;
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#txt1 p{
+    margin-right: 100px;
+    text-align: center;
+
+    color:red;
+}
+#pic2{
+    margin-left: 250px;
+    margin-top: 100px;
+}
+#t2{
+    margin-left: 320px;
+    font-size: 95px;
+    margin-top: -90px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+
+
+}
+#bvb2{
+    margin-top: 20px;
+    margin-left: 360px;
+    height:100px;
+    display: flex;
+}
+#bvb2 img{
+    margin-right: 100px;
+}
+
+#txt2{
+    display: flex;
+    margin-left: 350px;
+    margin-top: 30px;
+    color: red;
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#txt2 p{
+    margin-right: 100px;
+    text-align: center;
+
+    color:red;
+}
+#pic3{
+    margin-left: 250px;
+    margin-top: 100px;
+}
+#t3{
+    margin-left: 320px;
+    font-size: 95px;
+    margin-top: -90px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+
+
+}
+#bvb3{
+    margin-top: 20px;
+    margin-left: 360px;
+    height:100px;
+    display: flex;
+}
+#bvb3 img{
+    margin-right: 100px;
+}
+
+#txt3{
+    display: flex;
+    margin-left: 350px;
+    margin-top: 30px;
+    color: red;
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#txt3 p{
+    margin-right: 100px;
+    text-align: center;
+
+    color:red;
+}
+#pic4{
+    margin-left: 250px;
+    margin-top: 100px;
+}
+#t4{
+    margin-left: 320px;
+    font-size: 95px;
+    margin-top: -90px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+
+
+}
+#bvb4{
+    margin-top: 20px;
+    margin-left: 360px;
+    height:100px;
+    display: flex;
+}
+#bvb4 img{
+    margin-right: 100px;
+}
+
+#txt4{
+    display: flex;
+    margin-left: 350px;
+    margin-top: 30px;
+    color: red;
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#txt4 p{
+    margin-right: 100px;
+    text-align: center;
+
+    color:red;
+}
+#bg2{
+    margin-top: 30px;
+    height: 250px;
+    background-color: brown;
+}
+.tx1{
+    font-weight: 800;
+    margin-left: 370px;
+    font-size: 55px;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: flex;
+    padding-top: 40px;
+
+    
+}
+p{
+    color: red;
+}
+p span{
+    color: black;
+}
+#box{
+    width: 60px;
+    height: 58px;
+    float: right;
+    margin-left: 400px;
+    margin-top: 36px;
+    background-color: white;
+    background: 
+    linear-gradient(135deg, transparent 45px, #ffffff 0) top left;
+}
+#box2{
+    width: 60px;
+    height: 58px;
+    float: right;
+    margin-left: 400px;
+    margin-top: -40px;
+    background-color: white;
+    background: 
+    linear-gradient(135deg, transparent 45px, #ffffff 0) top left;
+}
