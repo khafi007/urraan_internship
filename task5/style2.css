@@ -1,0 +1,251 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Roboto;
+}
+.img-div1{
+    width: 60%;
+}
+.i1{
+    width: 100%;
+}
+
+header{
+    display: flex;
+    background-color: rgb(226, 225, 225);
+}
+.text{
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.line{
+    width: 60%;
+    height: 3px;
+    background-color: gray;
+}
+.text h2{
+    font-size: 29px;
+    color: brown;
+}
+.text h1{
+    font-size: 64px;
+}
+
+.text p{
+    font-size: 27px;
+}
+nav{
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    background-color: brown;
+    height: 50px;
+}
+/* .nav-bar{
+    display: flex;
+    align-items: center;
+    margin-right: 30px;
+} */
+nav ul{
+    list-style: none;
+    display: flex;
+    color: white;
+    align-items: center;
+
+}
+ul li{
+    padding-block: 15px;
+    padding-inline: 5px;
+    margin-right: 50px;
+}
+nav ul li:hover{
+    background-color: gray;
+
+}
+
+.form-div{
+    background-image: url(form_bg.jpg);
+    background-size: cover;
+
+}
+.hero-sec{
+    display: flex;
+    margin: 20px;
+
+}
+.form-div{
+    width: 40%;
+}
+.img-div2{
+    width: 60%;
+    margin-right: 20px;
+}
+.img-div2 img{
+    width: 100%;
+}
+.question{
+    display: flex;
+    align-items: first baseline;
+}
+.question h1{
+    background-color: brown;
+    color: white;
+    padding-block: 12px;
+    padding-inline: 8px;
+    margin-right: 15px;
+}
+.question p{
+    font-size: 25px;
+    font-weight: 600;
+    margin-left: 80px;
+}
+.question span{
+    font-size: 50px;
+    color: blue;
+}
+.info{
+    font-size: 25px;
+   width: 90%;
+   margin: auto;
+}
+.main-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form{
+    width: 50%;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: end;
+    align-items: end;
+}
+.img-div{
+    margin-top: 50px;
+    margin-left: 40px;
+    width: 50%;
+    transform: rotate(15deg);
+}
+.txt2{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-block: 15px;
+}
+
+.txt2 textarea{
+    margin: auto;
+    width: 80%;
+    height: 70px;
+}
+
+.txt3{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    margin: 65px auto;
+    align-items: center;
+
+}
+.txt3 button{
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    background-color:brown;
+    color: white;
+}
+.div-1{
+    padding: 20px;
+}
+.inner{
+    display: flex;
+}
+.div-1 button{
+    padding: 8px;
+    background-color: brown;
+}
+.top{
+    display: flex;
+}
+
+.bottom{
+    display: flex;
+}
+.div-2 button{
+    background-color: brown;
+    padding: 8px;
+}
+.sec-3{
+    display: flex;
+    justify-content: center;
+}
+.div-3 button{
+    padding: 8px;
+    background-color: brown;
+}
+
+.div-1{
+    width: 30%;
+}
+.div-2{
+    width: 30%;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    padding: 20px 30px;
+}
+
+.div-3{
+    width: 30%;
+    padding: 20px 70px;
+}
+.div-2 .top{
+    padding-bottom: 10px;
+    
+}
+.div-1 h1 span{
+    color: brown;
+}
+.div-1 h3{
+    color:brown;
+}
+.t1 span{
+    color: brown;
+}
+.b1 span{
+    color: brown;
+}
+.d2 span{
+    color: brown;
+}
+.inner-1{
+    width: 60%;
+}
+.inner-2{
+    width: 30%;
+}
+.inner-2 img{
+    width: 100%;
+}
+.inner-3{
+    border-top: 1px solid black;
+    width: 50%;
+    display: flex;
+    justify-content: end;
+    padding-right: 20px;
+}
+.bt1{
+    border-top: 1px solid black;
+    width: 50%;
+    display: flex;
+    justify-content: end;
+    padding-right: 20px;
+}
+.t1{
+    width: 70%;
+}
