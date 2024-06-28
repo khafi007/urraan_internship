@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Slider</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+      integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="slider-container">
+      <div class="slider">
+        <div class="slide" style="background: url('la.jpg')">
+          <h1>LOS ANGELES</h1>
+          <h5>The atmosphere in Chania has a touch of Florence and Venice.</h5>
+        </div>
+        <div class="slide" style="background: url('chicago.jpg')">
+          <h1>CHICAGO</h1>
+          <h5>The atmosphere in Chania has a touch of Florence and Venice.</h5>
+        </div>
+        <div class="slide" style="background: url('ny.jpg')">
+          <h1>NEW YORK</h1>
+          <h5>The atmosphere in Chania has a touch of Florence and Venice.</h5>
+        </div>
+      </div>
+      <div class="dotted-nav">
+        <div class="dot active"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+      </div>
+      <div class="slider-controls">
+        <button class="prev-btn">
+          <i class="fa-solid fa-less-than"></i>
+        </button>
+        <button class="next-btn">
+          <i class="fa-solid fa-greater-than"></i>        </button>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
