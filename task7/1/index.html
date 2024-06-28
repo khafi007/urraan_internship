@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Age to Days Converter</title>
+</head>
+<body>
+    <div class="container">
+        <h2>Age to Days Converter</h2>
+        <label for="years">Enter your age:</label><br>
+        <input type="number" id="years" min="0" placeholder="Years" style="width: 60px;">
+        <input type="number" id="months" min="0" max="12" placeholder="Months" style="width: 60px;">
+        <input type="number" id="days" min="0" max="30" placeholder="Days" style="width: 60px;"><br>
+        <button onclick="convertAgeToDays()">Convert</button>
+        <p id="result"></p>
+    </div>
+
+    <script src="app.js">
+    </script>
+</body>
+</html>
